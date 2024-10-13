@@ -491,7 +491,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "corne-light.net",
-      "plot": "",
+      "plot": "gerber-ka/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
