@@ -446,7 +446,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "corne-light.kicad_pro",
+    "filename": "corne-backplate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -498,7 +498,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "corne-light.net",
-      "plot": "gerber/",
+      "plot": "backplate/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
